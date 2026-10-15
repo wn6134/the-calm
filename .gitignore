@@ -1,0 +1,13 @@
+build/
+.venv/
+reference/
+__pycache__/
+.DS_Store
+
+# Drop zone for new artwork; the skin in use lives in Resources/skin.png
+/*.png
+# Third-party document kept locally for reference only
+docs/NoisePlugin_UserManual.pdf
+
+# Installers
+dist/
